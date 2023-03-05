@@ -1,5 +1,5 @@
 ## Brief description of the data
-The dataset was downloaded from Kaggle. It included 16598 rows and 11 columns, including the name, releasing platform, year, genre, publisher, sales in global and each region, and rank of overall sales.
+The dataset was downloaded from Kaggle. It included 16598 rows and 11 columns, including the name, releasing platform, year, genre, publisher, sales in global and each region, and rank of overall sales. This assignment took me roughly 8 hours to finish.
 
 ## Widgets and panels
 **On the first page**, the widget includes general information and the main panel includes the sample data for the dataset.
